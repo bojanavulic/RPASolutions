@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\RPASolutions\CarsWindowsApp\bin\Debug\CarsWindowsApp.exe.config
+C:\Users\LENOVO\source\repos\RPASolutions\CarsWindowsApp\bin\Debug\CarsWindowsApp.exe
+C:\Users\LENOVO\source\repos\RPASolutions\CarsWindowsApp\bin\Debug\CarsWindowsApp.pdb
+C:\Users\LENOVO\source\repos\RPASolutions\CarsWindowsApp\obj\Debug\CarsWindowsApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\RPASolutions\CarsWindowsApp\obj\Debug\CarsWindowsApp.MainForm.resources
+C:\Users\LENOVO\source\repos\RPASolutions\CarsWindowsApp\obj\Debug\CarsWindowsApp.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\RPASolutions\CarsWindowsApp\obj\Debug\CarsWindowsApp.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\RPASolutions\CarsWindowsApp\obj\Debug\CarsWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RPASolutions\CarsWindowsApp\obj\Debug\CarsWindowsApp.exe
+C:\Users\LENOVO\source\repos\RPASolutions\CarsWindowsApp\obj\Debug\CarsWindowsApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\RPASolutions\StringManipulation\bin\Debug\StringManipulation.exe.config
+C:\Users\LENOVO\source\repos\RPASolutions\StringManipulation\bin\Debug\StringManipulation.exe
+C:\Users\LENOVO\source\repos\RPASolutions\StringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\LENOVO\source\repos\RPASolutions\StringManipulation\obj\Debug\StringManipulation.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\RPASolutions\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RPASolutions\StringManipulation\obj\Debug\StringManipulation.exe
+C:\Users\LENOVO\source\repos\RPASolutions\StringManipulation\obj\Debug\StringManipulation.pdb

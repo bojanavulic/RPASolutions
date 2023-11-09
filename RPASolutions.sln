@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsWindowsApp", "CarsWindowsApp\CarsWindowsApp.csproj", "{18B85546-7049-4DA0-8034-AC94FF251B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{EBB6F1C8-3DD6-402B-B3FD-84389D6826F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B85546-7049-4DA0-8034-AC94FF251B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B85546-7049-4DA0-8034-AC94FF251B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B85546-7049-4DA0-8034-AC94FF251B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B85546-7049-4DA0-8034-AC94FF251B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB6F1C8-3DD6-402B-B3FD-84389D6826F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB6F1C8-3DD6-402B-B3FD-84389D6826F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB6F1C8-3DD6-402B-B3FD-84389D6826F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB6F1C8-3DD6-402B-B3FD-84389D6826F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A0FB54-90A6-4057-8FB6-4450BF2E4721}
+	EndGlobalSection
+EndGlobal
